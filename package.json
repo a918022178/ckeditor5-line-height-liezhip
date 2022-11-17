@@ -20,11 +20,11 @@
   },
   "author": "p0thi",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://github.com/p0thi/ckeditor5-line-height-plugin",
-  "bugs": "https://github.com/p0thi/ckeditor5-line-height-plugin/issues",
+  "homepage": "https://github.com/a918022178/ckeditor5-line-height-liezhip",
+  "bugs": "https://github.com/a918022178/ckeditor5-line-height-liezhip/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/p0thi/ckeditor5-line-height-plugin.git"
+    "url": "https://github.com/a918022178/ckeditor5-line-height-liezhip.git"
   },
   "files": [
     "lang",
